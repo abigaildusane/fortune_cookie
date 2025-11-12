@@ -1,0 +1,15 @@
+import random
+
+fortunes = [
+    "You will have a great day today!",
+    "An exciting opportunity is coming your way!",
+    "Happiness is around the corner.",
+    "Someone will make you smile soon.",
+    "Your kindness will return to you multiplied.",
+    "You’re about to learn something amazing!",
+    "Adventure awaits—be ready!",
+    "A new friendship will brighten your week."
+]
+
+print("Your fortune cookie 🥠 says:")
+print(random.choice(fortunes))
