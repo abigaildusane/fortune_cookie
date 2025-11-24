@@ -10,6 +10,7 @@ fortunes = [
     "You will get a lot of surprises!",
     "A new fun experience will brighten your week."
     "Today is a great day!"
+    "Something wonderful will happen today!"
 ]
 
 print("Your fortune cookie 🥠 says:")
