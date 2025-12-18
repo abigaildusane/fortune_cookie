@@ -3,7 +3,7 @@ import random
 fortunes = [
     "You will have a great day today!",
     "An exciting opportunity is coming your way!",
-    "Happiness is around the corner.",
+    "Happiness is around the corner!",
     "Your kindness will return to you.",
     "You are about to learn something amazing!",
     "Adventure awaits be ready!",
